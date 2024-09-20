@@ -7,15 +7,19 @@ You can simply download the files/folders and then open them using any tool like
 
 ### Brief overview of the projects
 **Handling missing data**
+
 This project's purpose is to implement different ways of handling missing data based on its type such as MAR, MCAR. I used a dataset from Kaggle which consists of survey responses by developers all over the world for the last few years. 
 *Libraries used:* pandas, seaborn, numPy, IterativeImputer from sklearn. 
 *Solutions/analysis implemented:* Exploratory Data Analysis, Pairwise Deletion, Single Imputation (NOCB), Multiple Imputation 
 
 **Coded correspondence**
+
 Small interesting project on topic of ciphers. I created functions for decoding and encoding messages for Caesar and Vigenere ciphers. 
 
 **Hurricane analysis**
+
 Very simple task where I manipulated data to analyse patterns in the data
 
 **Medical Insurance**
+
 Also a simple task of analysing small dataset to find the correlation between data factors   
